@@ -2,3 +2,4 @@ line number one I like coconuts and some.. flying.. water fueled UFO
 
 Line number two which is whole a lot better than line one yey
 
+Line number three - last attempt failed because I was trying out pull request with my own account(github1). So when I went ahead to create a pull request with my updated cloned file, GitHub just straight away added the new commits to the main branch without any requests or merging steps which I expected. So this time, I got myself another GitHub account(github2) and lets try so that it seems a stranger is trying to pull the changes to my main.
